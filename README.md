@@ -1,4 +1,4 @@
-# Java-assignment
+# Java
 <br>
 Here I made two projects in Java.
 <br>
