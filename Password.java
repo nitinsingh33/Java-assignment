@@ -9,7 +9,7 @@ public class Password{
         System.out.println(geek_Password(length));
     }
     
-    // This is our Password generating method
+    // This is my Password generating method
     
     static char[] geek_Password(int len) {
         
