@@ -1,6 +1,6 @@
 # Java
 <br>
-Here I made two projects in Java.
+Here I made two mini projects in Java.
 <br>
 <h3>OTP Generator</h3>
 In this project I used java util & rndom method for the output of random 6 digit OTP.
